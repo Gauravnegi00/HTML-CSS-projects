@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #464646;
+}
+p{
+    font-size: 20px;
+    background-color: green;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 20px;
+    color: white;
+} 
